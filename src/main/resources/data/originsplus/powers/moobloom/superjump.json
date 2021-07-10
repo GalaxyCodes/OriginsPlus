@@ -1,0 +1,10 @@
+{
+    "type": "origins:modify_jump",
+    "hud_render": {
+    	"should_render": false
+  	},
+    "modifier": {
+        "operation": "addition",
+        "value": 0.1
+    }
+}

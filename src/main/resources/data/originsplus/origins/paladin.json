@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "originsplus:paladin/double_life",
+        "originsplus:paladin/strike",
+        "originsplus:paladin/weakness",
+        "originsplus:paladin/weakness2",
+        "originsplus:paladin/luck"
+    ],
+    "icon": "minecraft:trident",
+    "order": 12,
+    "impact": 2
+}

@@ -1,0 +1,53 @@
+{
+  "type": "origins:multiple",
+  "light_up_block": {
+    "type": "apugli:light_up_block",
+    "cooldown": 80,
+    "hud_render": {
+      "should_render": true,
+      "sprite_location": "originsplus:textures/gui/mod_resource_bar.png",
+      "bar_index": 0
+    },
+    "burn_time": 2600,
+    "brew_time": 20,
+    "particle": "minecraft:dragon_breath",
+    "particle_count": 15,
+    "sound": "minecraft:entity.ender_dragon.shoot",
+    "key": {
+      "key": "key.origins.primary_active",
+      "continuous": false
+    },
+    "condition": {
+      "type": "apugli:block_looking_at",
+      "block_condition": {
+        "type": "origins:in_tag",
+        "tag": "originsplus:lightable"
+      }
+    }
+  },
+  "fire_projectile": {
+    "type": "origins:fire_projectile",
+    "cooldown": 120,
+    "hud_render": {
+      "should_render": true,
+      "sprite_location": "originsplus:textures/gui/mod_resource_bar.png",
+      "bar_index": 0
+    },
+    "entity_type": "originsplus:small_dragon_fireball",
+    "sound": "minecraft:entity.ender_dragon.shoot",
+    "speed": 1.0,
+    "divergence": 1.0,
+    "key": {
+      "key": "key.origins.primary_active",
+      "continuous": false
+    },
+    "condition": {
+      "type": "apugli:block_looking_at",
+      "block_condition": {
+        "type": "origins:in_tag",
+        "tag": "originsplus:lightable"
+      },
+      "inverted": true
+    }
+  }
+}

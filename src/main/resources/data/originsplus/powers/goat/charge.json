@@ -1,0 +1,33 @@
+{
+	"type": "originsplus:charge",
+	"cooldown": 120,
+	"hud_render": {
+		"should_render": true,
+		"sprite_location": "originsplus:textures/gui/mod_resource_bar.png",
+		"bar_index": 1
+	},
+	"condition": {
+		"type": "origins:and",
+		"conditions": [
+			{
+				"type": "origins:submerged_in",
+				"fluid": "minecraft:water",
+				"inverted": true
+			},
+			{
+				"type": "origins:fall_flying",
+				"inverted": true
+			},
+			{
+				"type": "origins:swimming",
+				"inverted": true
+			}
+		]
+	},
+	"sound": "minecraft:entity.parrot.fly",
+	"speed": 3,
+	"key": {
+		"key": "key.origins.primary_active",
+		"continuous": true
+	}
+}

@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "origins:vegetarian",
+        "originsplus:moobloom/weakness",
+        "originsplus:moobloom/short",
+        "originsplus:moobloom/superjump"
+    ],
+    "icon": "minecraft:dandelion",
+    "order": 12,
+    "impact": 2
+}

@@ -1,0 +1,20 @@
+{
+  "type": "origins:attribute",
+  "hud_render": {
+    	"should_render": false
+  	},
+  "modifiers": [
+        {
+            "name": "LESS HEALTH",
+    		"attribute": "minecraft:generic.max_health",
+    		"value": 4.0,
+    		"operation": "addition"
+        },
+        {
+            "name": "LESS DAMAGE",
+            "attribute": "minecraft:generic.attack_damage",
+            "value": -0.25,
+            "operation": "multiply_total"
+        }
+  ]
+}

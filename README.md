@@ -1,9 +1,10 @@
-# Fabric Example Mod
+# Origins+
 
-## Setup
+Made by Galaxy!
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This is the original GitHub repository for the Origins+ mod, an addon for the Origins mod. Here, you can read the source code of the addon and even download and tweak it!
 
-## License
+If you have an issue or want to report a bug, do so [here](https://github.com/GalaxyCodes/OriginsPlus/issues).
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+If you would like to contact me you can message me on discord: Galaxy#0008
+(If there's enough demand in the future I may makea discord server.)

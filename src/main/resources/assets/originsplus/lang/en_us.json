@@ -1,0 +1,66 @@
+{
+	"origin.originsplus.dragonborn.name": "Dragonborn",
+  	"origin.originsplus.dragonborn.description": "The alpha guardian of the end. Whilst there may already be a dragon guarding the precious egg, you will soon take that reign after you slay your own kind. Average inhabitants of the end bow down to you.",
+
+	"power.originsplus.dragonborn/dragon_breath.name": "Draconic Breath",
+  	"power.originsplus.dragonborn/dragon_breath.description": "You can breathe a draconic fireball, you are also able to light up certain blocks.",
+	"power.originsplus.dragonborn/no_knockback.name": "Heavy Scales",
+  	"power.originsplus.dragonborn/no_knockback.description": "You weigh as much as a real dragon would. You are immune to knockbacks.",
+  	"power.originsplus.dragonborn/weak_point.name": "Weak Point",
+  	"power.originsplus.dragonborn/weak_point.description": "You have a vulnerable spot, making you take more damage from projectiles.",
+  	"power.originsplus.dragonborn/prevent_sleep.name": "PTSD",
+  	"power.originsplus.dragonborn/prevent_sleep.description": "You've seen many terrible things. You can't sleep.",
+  	
+  	
+    "origin.originsplus.skeleton.name": "Skeleton",
+    "origin.originsplus.skeleton.description": "Pfft. Skeleton go rattle rattle.",
+    
+    "power.originsplus.skeleton/burn_no_helmet.name": "Boil",
+  	"power.originsplus.skeleton/burn_no_helmet.description": "You will burn at the touch of sunlight without a helmet.",
+  	"power.originsplus.skeleton/more_bow_damage.name": "Bullseye",
+  	"power.originsplus.skeleton/more_bow_damage.description": "You do 100% more bow damage.",
+  	"power.originsplus.skeleton/nocturnal.name": "Nocturnal",
+  	"power.originsplus.skeleton/nocturnal.description": "You gain Speed II at night.",
+  	"power.originsplus.skeleton/rattle.name": "Rattle",
+  	"power.originsplus.skeleton/rattle.description": "Now that you have bones, you shake as you struggle to control your own body.",
+    "power.originsplus.skeleton/brittle.name": "Brittle",
+  	"power.originsplus.skeleton/brittle.description": "Since you have no flesh, your bones absorb impact from damage.",
+  	
+  	"origin.originsplus.paladin.name": "Paladin",
+    "origin.originsplus.paladin.description": "Master of the skies; every storm only makes you stronger and you wield the might of a thousand suns.",
+    
+    "power.originsplus.paladin/double_life.name": "Double life",
+  	"power.originsplus.paladin/double_life.description": "After you die once, you have a second life before you have to respawn.",
+  	"power.originsplus.paladin/strike.name": "Strike",
+  	"power.originsplus.paladin/strike.description": "When you hit any entity, there's a 10% chancve that it will be struck with lightning.",
+  	"power.originsplus.paladin/weakness.name": "Weakness",
+  	"power.originsplus.paladin/weakness.description": "You take 50% more damage and swim 50% slower.",
+  	"power.originsplus.paladin/luck.name": "Luck",
+  	"power.originsplus.paladin/luck.description": "You gain 2x xp.",
+  	
+  	"origin.originsplus.goat.name": "Goat",
+    "origin.originsplus.goat.description": "While maintaining the abilities of a human, they are part-goat and bring great dominance upon the lands of the plains biome. They will easily scare off any animal that dares to attempt an attack upon them.",
+    
+    "power.originsplus.goat/big_sized.name": "Beefy",
+  	"power.originsplus.goat/big_sized.description": "Since you're so tall, you have more hearts, take less knockback, and do more damage.",
+  	"power.originsplus.goat/jump_higher.name": "Strong legs",
+  	"power.originsplus.goat/jump_higher.description": "Your back legs allow you to jump 2 blocks high",
+  	"power.originsplus.goat/big_size.name": "Tall",
+  	"power.originsplus.goat/big_size.description": "You tower over everyone at 2 1/4 blocks tall.",
+  	"power.originsplus.goat/weighted.name": "Weighted",
+  	"power.originsplus.goat/weighted.description": "Since you're tall and strong you take 2x fall damage.",
+  	"power.originsplus.goat/charge.name": "Charge",
+  	"power.originsplus.goat/charge.description": "When you use your primary attack you get launched forwards.",
+  	
+  	"origin.originsplus.moobloom.name": "Moobloom",
+    "origin.originsplus.moobloom.description": "Best friends of the bees. While they may not moo, they will fit right into a group of pisscows.",
+    
+    "power.originsplus.moobloom/short.name": "Short",
+  	"power.originsplus.moobloom/short.description": "You are 65% of an average player's height. This means that when you crouch you can fit in 1 block spaces.",
+  	"power.originsplus.moobloom/superjump.name": "Spring Legs",
+  	"power.originsplus.moobloom/superjump.description": "Despite only jumping one block, you still jump twice as high as normal.",
+  	"power.originsplus.moobloom/weakness.name": "Weakness",
+  	"power.originsplus.moobloom/weakness.description": "As you are short, you do less damage.",
+  	
+  	"death.attack.indirectDragonMagic": "%1$s couldn't handle %2$s's breath."
+}

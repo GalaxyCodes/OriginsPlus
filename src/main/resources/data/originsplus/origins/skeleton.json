@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "originsplus:skeleton/burn_no_helmet",
+        "originsplus:skeleton/rattle",
+        "originsplus:skeleton/more_bow_damage",
+        "originsplus:skeleton/nocturnal",
+        "originsplus:skeleton/brittle"
+    ],
+    "icon": "minecraft:bone",
+    "order": 11,
+    "impact": 2
+}

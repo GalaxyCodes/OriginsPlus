@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "originsplus:dragonborn/dragon_breath",
+        "originsplus:dragonborn/no_knockback",
+        "originsplus:dragonborn/weak_point",
+        "originsplus:dragonborn/prevent_sleep",
+        "origins:carnivore",
+        "origins:ender_particles"
+    ],
+    "icon": "minecraft:dragon_breath",
+    "order": 10,
+    "impact": 2
+}

@@ -1,38 +1,30 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "originsplus",
   "version": "${version}",
-
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
-  "authors": [
-    "Me!"
-  ],
-  "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
-  },
-
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
-
+  "name": "Origins+",
+  "description": "An addon to the original Origins mod which adds many more origins to the game.",
+  "authors": ["Galaxy"],
+  "contact": {"sources": "https://github.com/GalaxyCodes/OriginsPlus"},
+  "license": "MIT",
+  "icon": "assets/originsplus/icon128.png",
   "environment": "*",
   "entrypoints": {
+    "client": [
+      "io.github.galaxy.originsplus.OriginsPlusClient"
+    ],
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "io.github.galaxy.originsplus.OriginsPlus"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "originsplus.mixins.json"
   ],
-
   "depends": {
     "fabricloader": ">=0.11.3",
-    "fabric": "*",
+    "fabric": ">=0.29.4",
     "minecraft": "1.17.x",
-    "java": ">=16"
-  },
-  "suggests": {
-    "another-mod": "*"
+    "origins": ">=1.0.2",
+    "apugli": ">=1.0.2"
   }
 }

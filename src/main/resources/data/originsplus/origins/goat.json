@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "originsplus:goat/big_size",
+        "originsplus:goat/big_sized",
+        "originsplus:goat/jump_higher",
+        "originsplus:goat/weighted",
+        "originsplus:goat/charge",
+        "origins:vegetarian"
+    ],
+    "icon": "minecraft:grass_block",
+    "order": 11,
+    "impact": 2
+}

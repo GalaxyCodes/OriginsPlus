@@ -1,0 +1,29 @@
+{
+    "type": "origins:target_action_on_hit",
+    "cooldown": 0,
+	"damage_condition": {
+    	"type": "origins:attacker",
+    	"entity_condition": {
+    		"type": "origins:equipped_item",
+            "equipment_slot": "mainhand",
+		    "item_condition": {
+		    	"type": "origins:ingredient",
+		    	"ingredient": {
+		    		"item": "minecraft:air"
+		    	}
+		    }
+    	}
+	},
+	"condition": {
+    	"type": "origins:exposed_to_sky"
+	},
+	"entity_action": {
+	  	"type": "origins:chance",
+  		"action": {
+    		"type": "origins:execute_command",
+	  		"command": "summon lightning_bolt",
+	  		"permission_level": 2
+  		},
+  		"chance": 0.1
+	}
+}
