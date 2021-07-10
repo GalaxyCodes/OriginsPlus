@@ -7,4 +7,4 @@ This is the original GitHub repository for the Origins+ mod, an addon for the Or
 If you have an issue or want to report a bug, do so [here](https://github.com/GalaxyCodes/OriginsPlus/issues).
 
 If you would like to contact me you can message me on discord: Galaxy#0008
-(If there's enough demand in the future I may makea discord server.)
+(If there's enough demand in the future I may make a discord server.)
